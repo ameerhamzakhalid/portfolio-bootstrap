@@ -23,4 +23,7 @@ Prerequisites
 
 👤 Author2
 
-•	GitHub: https://github.com/ameerhamzakhalid 
+•	GitHub: [@ameerhamzakhalid](https://github.com/ameerhamzakhalid)
+•	Twitter: [@twitterhandle](https://twitter.com/ameeerhamza1997)
+•	LinkedIn: [Ameer Hamza](https://www.linkedin.com/in/choudhary-hamza-37b17a141/)
+
